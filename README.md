@@ -6,6 +6,10 @@
 
 **DisasterStay** is an AI-powered emergency housing coordination platform designed to connect disaster-affected people with safe shelters during natural disasters in India. The platform provides real-time shelter availability, emergency contacts, and AI assistance.
 
+![demo](https://github.com/Tanmay1112004/DisasterStay---Emergency-Housing-Coordination/blob/main/%F0%9F%8F%A0%20DisasterStay%20-%20Emergency%20Housing%20Coordination/screenshots/Screenshot%202025-11-02%20103156.png)
+![demo](https://github.com/Tanmay1112004/DisasterStay---Emergency-Housing-Coordination/blob/main/%F0%9F%8F%A0%20DisasterStay%20-%20Emergency%20Housing%20Coordination/screenshots/Screenshot%202025-11-02%20103242.png)
+![demo](https://github.com/Tanmay1112004/DisasterStay---Emergency-Housing-Coordination/blob/main/%F0%9F%8F%A0%20DisasterStay%20-%20Emergency%20Housing%20Coordination/screenshots/Screenshot%202025-11-02%20103708.png)
+
 ## 🚀 Features
 
 - **🏠 Smart Shelter Matching** - Find shelters based on location, family size, and special needs
