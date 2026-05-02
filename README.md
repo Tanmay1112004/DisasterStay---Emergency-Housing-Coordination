@@ -198,7 +198,7 @@ git add .
 git commit -m "Initial commit: DisasterStay Emergency Housing Platform"
 
 # 6. Create repository on GitHub and push
-git remote add origin https://github.com//DisasterStay-Emergency-Housing.git
+git remote add origin https://github.com/Tanmay1112004/DisasterStay-Emergency-Housing.git
 git branch -M main
 git push -u origin main
 
