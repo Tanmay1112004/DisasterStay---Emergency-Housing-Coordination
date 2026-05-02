@@ -31,7 +31,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com//DisasterStay-Emergency-Housing.git
+   git clone https://github.com/Tanmay1112004/DisasterStay-Emergency-Housing.git
    cd DisasterStay-Emergency-Housing
    ```
 
