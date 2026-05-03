@@ -23,6 +23,12 @@
 
 ## Demo Images
 
+![demo](https://github.com/Tanmay1112004/DisasterStay---Emergency-Housing-Coordination/blob/main/%F0%9F%8F%A0%20DisasterStay%20-%20Emergency%20Housing%20Coordination/screenshots/Screenshot%202025-11-02%20103156.png)
+
+![demo](https://github.com/Tanmay1112004/DisasterStay---Emergency-Housing-Coordination/blob/main/%F0%9F%8F%A0%20DisasterStay%20-%20Emergency%20Housing%20Coordination/screenshots/Screenshot%202025-11-02%20103242.png)
+
+![demo](https://github.com/Tanmay1112004/DisasterStay---Emergency-Housing-Coordination/blob/main/%F0%9F%8F%A0%20DisasterStay%20-%20Emergency%20Housing%20Coordination/screenshots/Screenshot%202025-11-02%20103708.png)
+
 ---
 
 ## 🚨 Problem Statement
