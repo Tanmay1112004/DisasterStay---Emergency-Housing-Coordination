@@ -162,7 +162,7 @@ DisasterStay-Emergency-Housing/
 ## 🚀 Run Locally
 
 ```bash id="run_ds"
-git clone https://github.com/Tanmay1112004/DisasterStay-Emergency-Housing.git
+git clone https://github.com//DisasterStay-Emergency-Housing.git
 cd DisasterStay-Emergency-Housing
 pip install -r requirements.txt
 streamlit run app.py
